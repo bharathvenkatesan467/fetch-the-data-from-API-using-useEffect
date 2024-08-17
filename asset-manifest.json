@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bharathvenkatesan467/fetch-the-data-from-API-using-useEffect/static/css/main.e6c13ad2.css",
+    "main.js": "/bharathvenkatesan467/fetch-the-data-from-API-using-useEffect/static/js/main.63c5d5a1.js",
+    "index.html": "/bharathvenkatesan467/fetch-the-data-from-API-using-useEffect/index.html",
+    "main.e6c13ad2.css.map": "/bharathvenkatesan467/fetch-the-data-from-API-using-useEffect/static/css/main.e6c13ad2.css.map",
+    "main.63c5d5a1.js.map": "/bharathvenkatesan467/fetch-the-data-from-API-using-useEffect/static/js/main.63c5d5a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.63c5d5a1.js"
+  ]
+}
